@@ -57,7 +57,6 @@ This script provides an easy way to organize files from a source folder into a c
 ### Requirements:
 
 - Python 3.x
-- Modules: `os`, `sys`, `shutil`, `datetime`, `argparse`
 
 ---
 
